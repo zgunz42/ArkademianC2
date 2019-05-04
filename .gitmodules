@@ -1,0 +1,3 @@
+[submodule "soal_6"]
+	path = soal_6
+	url = git@github.com:zgunz42/quickcount.git
