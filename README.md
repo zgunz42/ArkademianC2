@@ -1,0 +1,1 @@
+![Soal NO 6](./screenshot/main.png)
